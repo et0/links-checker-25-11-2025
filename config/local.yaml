@@ -1,0 +1,8 @@
+http_server:
+  port: "8080"
+
+storage:
+  filepath: "./storage/data.json"
+
+app:
+  worker_count: 2
