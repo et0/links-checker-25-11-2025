@@ -57,6 +57,7 @@ go run cmd/server/main.go
 {
     "links": ["https://mydrop.io", "https://digimetr.com"]
 }
+```
 
 ### POST /report
 Генерация pdf файла
@@ -66,6 +67,7 @@ go run cmd/server/main.go
 {
     "links_num": [1, 2]
 }
+```
 
 ## Тестирование
 
